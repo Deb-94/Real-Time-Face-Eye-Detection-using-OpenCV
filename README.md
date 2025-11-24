@@ -1,14 +1,10 @@
-Here is a clean, professional, **README.md** you can directly upload to your GitHub repository for the **Face & Eye Detection using OpenCV** project.
-
----
-
-# 📘 Face & Eye Detection Using OpenCV
+📘 Face & Eye Detection Using OpenCV
 
 A simple Computer Vision project that performs real-time face and eye detection using a webcam. This project uses OpenCV's built-in **Haar Cascade Classifiers** to detect human faces and eyes in live video streams. It is lightweight, easy to understand, and suitable for beginners.
 
 ---
 
-## 📌 **Project Overview**
+📌 **Project Overview**
 
 Face and eye detection is one of the fundamental applications in Computer Vision. In this project, a webcam feed is captured and frames are processed in real-time to identify:
 
@@ -20,7 +16,7 @@ This project demonstrates how OpenCV can be used to perform image processing, ob
 
 ---
 
-## 🎯 **Objectives**
+🎯 **Objectives**
 
 * Capture live video using a webcam
 * Detect faces using Haar Cascade classifier
@@ -32,7 +28,7 @@ This project demonstrates how OpenCV can be used to perform image processing, ob
 
 ---
 
-## 🧩 **Features**
+🧩 **Features**
 
 ✔ Real-time face detection
 ✔ Eye detection inside each face
@@ -43,7 +39,7 @@ This project demonstrates how OpenCV can be used to perform image processing, ob
 
 ---
 
-## 📂 **Project Structure**
+📂 **Project Structure**
 
 ```
 cv-face-eye-detection/
@@ -62,7 +58,7 @@ cv-face-eye-detection/
 
 ---
 
-## 🛠️ **Technologies Used**
+🛠️ **Technologies Used**
 
 * **Python 3**
 * **OpenCV (cv2)**
@@ -70,7 +66,7 @@ cv-face-eye-detection/
 
 ---
 
-## 📦 **Installation Instructions**
+📦 **Installation Instructions**
 
 ### 1. Install Python dependencies
 
@@ -88,7 +84,7 @@ Make sure your webcam is connected.
 
 ---
 
-## ▶️ **How It Works**
+▶️ **How It Works**
 
 1. Access webcam using `cv2.VideoCapture()`
 2. Convert each frame to grayscale
@@ -105,7 +101,7 @@ Make sure your webcam is connected.
 
 ---
 
-## 🧠 **Algorithm (Simplified)**
+🧠 **Algorithm (Simplified)**
 
 ```
 START
@@ -129,13 +125,8 @@ END
 
 ---
 
-## 📸 **Screenshots**
 
-Add your screenshots inside the `/screenshots/` folder.
-
----
-
-## 🧪 **Testing & Output**
+🧪 **Testing & Output**
 
 Test the program by:
 
@@ -146,7 +137,7 @@ Test the program by:
 
 ---
 
-## 📝 **Future Enhancements (Optional)**
+📝 **Future Enhancements (Optional)**
 
 You can extend this project by adding:
 
@@ -159,18 +150,10 @@ You can extend this project by adding:
 
 ---
 
-## 👨‍💻 **Author**
+👨‍💻 **Author**
 
-Your Name
-Your Registration Number
-Your Course / Section
+Debashish Biswas 
+22MIM10017
 
 ---
 
-If you want, I can also generate:
-✅ Project Report
-✅ Flowchart
-✅ Block diagram
-✅ PPT for presentation
-
-Just tell me!
